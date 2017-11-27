@@ -1,5 +1,4 @@
 This is a high level object oriented design for an Elevator System. It also includes some of the main pseudocode on how different components will work. This represents simple working structure, it's by no means optimized for a real elevator system. 
-
 Classes needed for Elevator System: 
 
 ElevatorManager [Singleton - This is the main elevator program which will manage n elevators in the building]
